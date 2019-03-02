@@ -1,0 +1,16 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\bin\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\bin\Debug\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\obj\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\obj\Debug\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte\obj\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte\obj\Debug\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\bin\Debug\Kugel.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\bin\Debug\Kugel.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\bin\Debug\Kugel.exe
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\bin\Debug\Kugel.pdb
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Berechnungen.csprojResolveAssemblyReference.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Kugel.exe
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Hochladen_Git_C#\Berechnungen_Git\Berechnungen_Volumen_Dichte_Bodensee\obj\Debug\Kugel.pdb

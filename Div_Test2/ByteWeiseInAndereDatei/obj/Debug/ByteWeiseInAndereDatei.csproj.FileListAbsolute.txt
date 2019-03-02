@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Debug\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Debug\ByteWeiseInAndereDatei.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Debug\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Debug\ByteWeiseInAndereDatei.pdb

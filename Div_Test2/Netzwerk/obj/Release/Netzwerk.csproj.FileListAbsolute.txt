@@ -1,0 +1,17 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Release\Netzwerk.exe.config
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Release\Netzwerk.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Release\Netzwerk.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\MainWindow.baml
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\MainWindow.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\App.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk_MarkupCompile.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.g.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Release\Netzwerk.exe.manifest
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Release\Netzwerk.application
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.exe.manifest
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.application
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Release\Netzwerk.csprojResolveAssemblyReference.cache

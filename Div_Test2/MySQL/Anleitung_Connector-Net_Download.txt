@@ -1,0 +1,36 @@
+- Leider etwas kommplizierter als früher! :(
+
+
+- Es geht nur noch mit dem MySQL-Installer
+                           ===============
+
+
+1. Es muss zuerst der installer ge-Download'et werden!! :(
+2. https://dev.mysql.com/downloads/connector/net/
+
+
+3. Mit diesem Installer kann jetzt connector/net ausgewählt werden.
+       
+	   - rechts 'add')
+ 	   - dann MySQL Connector auswählen.
+	   - mit Pfeil nach rechts schieben)
+
+
+4. Mann findet jetzt die 'MySql.Data.dll' in
+   C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2
+
+						 
+5.Jetzt nur noch in Visual-Studio ein Verweis auf MySql.Data.dll
+                                                  ==============
+												  
+6.Namespace:   
+  using MySql.Data.MySqlClient;
+        ======================
+					 
+					 
+7. Klassen Namen:  MySqlConnection(<connection-string>);
+                   MySqlCommand(<sql-query>, connection);
+				   
+				   
+(Installer wieder starten in:
+C:\Program Files (x86)\MySQL\MySQL Installer for Windows\MySQLInstaller.dll)

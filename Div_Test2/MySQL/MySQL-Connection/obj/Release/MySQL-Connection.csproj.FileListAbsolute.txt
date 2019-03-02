@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\bin\Release\MySQL-Connection.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\bin\Release\MySQL-Connection.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\obj\Release\MySQL-Connection.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\obj\Release\MySQL-Connection.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Connection\bin\Release\mysql.data.dll

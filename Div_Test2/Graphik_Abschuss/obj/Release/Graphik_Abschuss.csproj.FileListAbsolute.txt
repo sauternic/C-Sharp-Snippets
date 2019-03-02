@@ -1,0 +1,8 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\bin\Release\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\bin\Release\Graphik_Abschuss.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\Graphik_Abschuss.Form1.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\Graphik_Abschuss.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\Graphik_Abschuss.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Release\Graphik_Abschuss.pdb

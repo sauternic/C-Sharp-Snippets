@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\bin\Release\Kugel.exe.config
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\bin\Release\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\bin\Release\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\obj\Release\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Berechnungen_Volumen_Dichte_Bodensee\obj\Release\Kugel.pdb

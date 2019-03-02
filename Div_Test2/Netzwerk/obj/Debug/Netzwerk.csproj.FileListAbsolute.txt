@@ -1,0 +1,16 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Debug\Netzwerk.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Debug\Netzwerk.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\MainWindow.baml
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\MainWindow.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\App.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk_MarkupCompile.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.g.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Debug\Netzwerk.exe.config
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Debug\Netzwerk.exe.manifest
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\bin\Debug\Netzwerk.application
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.exe.manifest
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\Netzwerk\obj\Debug\Netzwerk.application

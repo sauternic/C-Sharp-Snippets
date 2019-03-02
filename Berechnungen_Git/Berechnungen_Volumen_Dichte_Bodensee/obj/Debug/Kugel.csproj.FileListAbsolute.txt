@@ -1,0 +1,4 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\bin\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\bin\Debug\Kugel.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\obj\Debug\Kugel.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Grosse Uebungen\Kugel\obj\Debug\Kugel.pdb

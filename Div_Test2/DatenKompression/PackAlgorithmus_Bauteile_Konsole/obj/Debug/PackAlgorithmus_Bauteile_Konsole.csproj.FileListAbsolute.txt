@@ -1,0 +1,12 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\PackAlgorithmus_Bauteile_Konsole\bin\Debug\PackAlgorithmus_Bauteile_Konsole.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\PackAlgorithmus_Bauteile_Konsole\bin\Debug\PackAlgorithmus_Bauteile_Konsole.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\bin\Debug\PackAlgorithmus_Bauteile_Konsole.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\bin\Debug\PackAlgorithmus_Bauteile_Konsole.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\NeueProjekte2013\DatenKompression\PackAlgorithmus_Bauteile_Konsole\obj\Debug\PackAlgorithmus_Bauteile_Konsole.csprojResolveAssemblyReference.cache

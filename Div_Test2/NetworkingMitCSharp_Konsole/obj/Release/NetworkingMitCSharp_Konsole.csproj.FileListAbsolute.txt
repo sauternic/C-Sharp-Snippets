@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\NetworkingMitCSharp_Konsole\bin\Release\NetworkingMitCSharp_Konsole.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\NetworkingMitCSharp_Konsole\bin\Release\NetworkingMitCSharp_Konsole.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\NetworkingMitCSharp_Konsole\obj\Release\NetworkingMitCSharp_Konsole.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\NetworkingMitCSharp_Konsole\obj\Release\NetworkingMitCSharp_Konsole.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\NeueProjekte2012\NetworkingMitCSharp_Konsole\obj\Release\NetworkingMitCSharp_Konsole.csprojResolveAssemblyReference.cache

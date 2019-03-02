@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\bin\Debug\MySQL-Conection-SELECT.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\bin\Debug\MySQL-Conection-SELECT.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\bin\Debug\mysql.data.dll
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\obj\Debug\MySQL-Conection-SELECT.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL-Conection-SELECT\obj\Debug\MySQL-Conection-SELECT.pdb

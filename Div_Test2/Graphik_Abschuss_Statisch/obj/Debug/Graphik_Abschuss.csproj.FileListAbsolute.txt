@@ -1,0 +1,24 @@
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\bin\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\bin\Debug\Graphik_Abschuss.pdb
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.Form1.resources
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.Properties.Resources.resources
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.csproj.GenerateResource.Cache
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\AppData\Local\Temporary Projects\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.Form1.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\obj\Debug\Graphik_Abschuss.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\bin\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss\bin\Debug\Graphik_Abschuss.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\Graphik_Abschuss.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\Graphik_Abschuss.Form1.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\Graphik_Abschuss.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\obj\Debug\Graphik_Abschuss.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\bin\Debug\Graphik_Abschuss.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Graphik_Abschuss_Statisch\bin\Debug\Graphik_Abschuss.pdb

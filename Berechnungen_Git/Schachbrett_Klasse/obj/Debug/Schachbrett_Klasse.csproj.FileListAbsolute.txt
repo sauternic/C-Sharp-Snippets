@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Klassen\Schachbrett_Klasse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Klassen\Schachbrett_Klasse\bin\Debug\Schachbrett_Klasse.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Klassen\Schachbrett_Klasse\bin\Debug\Schachbrett_Klasse.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Klassen\Schachbrett_Klasse\obj\Debug\Schachbrett_Klasse.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Klassen\Schachbrett_Klasse\obj\Debug\Schachbrett_Klasse.pdb

@@ -1,0 +1,120 @@
+using namespace System;
+using namespace System::IO;
+using namespace System::Text;
+
+
+public ref class html{ //Klasse als Methodensammlung.
+		
+public: //Ultrawichtig!!!!!!!!!!!	
+
+	static void css(StreamWriter ^Aus){
+		
+	//CSS!********************************************************************************
+	Aus->WriteLine("<html>");
+	Aus->WriteLine("<head>\r\n");
+	Aus->WriteLine("<style>\r\n");
+	Aus->WriteLine("html{background-color:aquamarine;font-size:100px;margin-left:300px;font-family:verdana, sans-serif;}");
+	Aus->WriteLine(".violett{color:Fuchsia;}");
+	Aus->WriteLine(".blau{color:Blue;}");
+	Aus->WriteLine(".rot{color:Red;}");
+	
+	Aus->WriteLine("#copyright{color:red;font-size:60\"}");
+	Aus->WriteLine("\r\n</style>\r\n");
+	Aus->WriteLine("</head>");
+	Aus->WriteLine("<body>\r\n");
+	Aus->WriteLine("<p id=\"copyright\">Copyright &copy; Nicolas Sauter</p>");
+	//CSS!********************************************************************************}
+	}
+static void AusgabeStringViolett(StreamWriter ^Aus, String ^s){
+					
+			Aus->WriteLine("<p class=\"violett\">" + s + "</p>");
+			
+			}
+
+
+static void AusgabeStringBlau(StreamWriter ^Aus, String ^s){
+					
+			Aus->WriteLine("<p class=\"blau\">" + s + "</p>");
+			
+			}
+
+
+static void AusgabeStringRot(StreamWriter ^Aus, String ^s){
+					
+			Aus->WriteLine("<p class=\"rot\">" + s + "</p>");
+			
+			}
+
+
+
+
+
+
+
+static void AusgabeZahlenViolett(StreamWriter ^Aus, double s){
+					
+			Aus->WriteLine("<p class=\"violett\">{0:#,#}</p>", + s);
+			
+			}	
+
+static void AusgabeZahlenViolett(StreamWriter ^Aus, Decimal s){
+					
+			Aus->WriteLine("<p class=\"violett\">{0:#,#}</p>", + s);
+			
+			}	
+
+
+
+
+static void AusgabeZahlenBlau(StreamWriter ^Aus, double s){
+					
+			Aus->WriteLine("<p class=\"blau\">{0:#,#}</p>", + s);
+			
+			}	
+
+static void AusgabeZahlenBlau(StreamWriter ^Aus, Decimal s){
+					
+			Aus->WriteLine("<p class=\"blau\">{0:#,#}</p>", + s);
+			
+			}	
+
+
+
+
+static void AusgabeZahlenRot(StreamWriter ^Aus, double s){
+					
+			Aus->WriteLine("<p class=\"rot\">{0:#,#}</p>", + s);
+			
+			}	
+
+static void AusgabeZahlenRot(StreamWriter ^Aus, Decimal s){
+					
+			Aus->WriteLine("<p class=\"rot\">{0:#,#}</p>", + s);
+			
+			}	
+
+
+
+static void ende(StreamWriter ^Aus){
+				
+			Aus->WriteLine("\r\n<body>");
+			Aus->WriteLine("</html>");
+			Aus->Close();//Beachte! Schliessen nur 1mal am Schluss.
+			}
+		
+			
+		
+};
+
+-----------Erklärung---------------------------------------------------------------------------
+	StreamWriter ^Aus = gcnew StreamWriter("Ergebniss.htm",false,Encoding::UTF8);
+		
+	//Vor Schleife
+	html::css(Aus);
+	
+	//In Schleife
+	html::Ausgabe . . .(Eine von den sechs Möglichkeiten. Bei Zahlen double und String möglich, Ueberladen)
+	
+	//Nach Schleife
+	html::ende(Aus);
+-----------------------------------------------------------------------------------------------

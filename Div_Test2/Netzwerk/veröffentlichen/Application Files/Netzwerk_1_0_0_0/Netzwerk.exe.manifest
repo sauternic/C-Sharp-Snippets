@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Netzwerk.exe" version="1.0.0.0" publicKeyToken="ceda7c291eb1e082" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Netzwerk" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Netzwerk.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Netzwerk.exe" size="10752">
+      <assemblyIdentity name="Netzwerk" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5jIDEhaUYdIY0BBC9hTLSpKpcArWlLSlM+nDv7XbOzg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Netzwerk.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>jLCHdLm7v47ACsSCc72IOp8bA051ZvlIJCmYB91hk5o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=hp-elite\Nicolas" issuerKeyHash="6ee0e63e11b898e69f708c9c97ada1ea355c5ebf" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>HDb2qzSzN6Bhzwk+MsjR2NaAyR3SaejUPAS2rbV9210=</DigestValue></Reference></SignedInfo><SignatureValue>ltCD1W4Y3AwSE2ErA0+DvUMiEq5IFoyuAnxmHWni+Wbzefk+6djpGwnFZb+z7MKlqxB7O034Y0ZD1/rgBDeT8jaMRrIopww0XqRdZBeRGzRw1RDq94FYnpWSagvo17PBPk8L7Qvx+kEs08qtul8X7f7fD6EMMeWfVt9PUti/JzA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yAUi/L6/izbllKjwpHReBkUSHm1mIibtyu6zTdzqCm3kFSy/sxulq7aQynqdB9Eu7NBr+f82A/eXxjaNt4zFjwcAXMulLSGfFGlarRNBc73z47HsnatQq3wgETouIdO+kLqvVQh8d9m7K5db7RHdya2l8VaOuglFvZYqWALprtE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5ddb7db5adb6043cd4e869d21dc980d6d8d1c8323e09cf61a037b334abf6361c" Description="" Url=""><as:assemblyIdentity name="Netzwerk.exe" version="1.0.0.0" publicKeyToken="ceda7c291eb1e082" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=hp-elite\Nicolas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IiutvPLgyT1gS/RVJaVi8YQ4PEyoQHFNoUdcItLr2O4=</DigestValue></Reference></SignedInfo><SignatureValue>v1RDmCkWCh9qtc769WQlLMAozUL29cjJp0ttoTWEJkyKwEJN6vT5+9N3A+ihAwk5NxiLS14XPgrwEJzQKs3e4KToGzxeANs54rzGOnOWi2PLZ185f6EF0QJJ4CxQReM21K0pC5pbnuL/TVt4YqLhs6c1aoVZI7jLs2YLAc7V1zA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yAUi/L6/izbllKjwpHReBkUSHm1mIibtyu6zTdzqCm3kFSy/sxulq7aQynqdB9Eu7NBr+f82A/eXxjaNt4zFjwcAXMulLSGfFGlarRNBc73z47HsnatQq3wgETouIdO+kLqvVQh8d9m7K5db7RHdya2l8VaOuglFvZYqWALprtE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQTp4CuLJbMoxOi18gxvahkzANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAaABwAC0AZQBsAGkAdABlAFwATgBpAGMAbwBsAGEAczAeFw0xMzA0MzAyMjE2NDNaFw0xNDA1MDEwNDE2NDNaMCsxKTAnBgNVBAMeIABoAHAALQBlAGwAaQB0AGUAXABOAGkAYwBvAGwAYQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIBSL8vr+LNuWUqPCkdF4GRRIebWYiJu3K7rNN3OoKbeQVLL+zG6WrtpDKep0H0S7s0Gv5/zYD95fGNo23jMWPBwBcy6UtIZ8UaVqtE0FzvfPjseydq1CrfCAROi4h076Quq9VCHx32bsrl1vtEd3JraXxVo66CUW9lipYAumu0QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFr5TzORZByQoUwLJMRrL74v8ryYFt2U90R65y6zvMmABWTOTZIjwgDHpl+dh9VmQ3RbQSWTfIVVLeDIkyDo7tvuIw8pyP/Al7JBNJJvGOWMaublFhB3bVs/oUllnt6sU1Rr+9Uo2mQQZqCvcw/YVHwGnn6OimvGtIsv+r8BuXio</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

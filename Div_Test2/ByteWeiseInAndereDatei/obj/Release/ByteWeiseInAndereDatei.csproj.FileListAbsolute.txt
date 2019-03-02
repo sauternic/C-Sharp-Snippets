@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Release\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Release\ByteWeiseInAndereDatei.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Projects\C Sharp\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Release\ByteWeiseInAndereDatei.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Kleine Uebungen\ByteWeiseInAndereDatei\bin\Release\ByteWeiseInAndereDatei.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Kleine Uebungen\ByteWeiseInAndereDatei\obj\Release\ByteWeiseInAndereDatei.csprojResolveAssemblyReference.cache

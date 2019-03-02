@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\bin\Debug\MySQL_mit_Textfuellen_speed.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\bin\Debug\MySQL_mit_Textfuellen_speed.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\bin\Debug\mysql.data.dll
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\obj\Debug\MySQL_mit_Textfuellen_speed.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen_speed\obj\Debug\MySQL_mit_Textfuellen_speed.pdb

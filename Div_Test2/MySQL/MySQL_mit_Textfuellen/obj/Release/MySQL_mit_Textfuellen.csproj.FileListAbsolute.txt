@@ -1,0 +1,6 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\bin\Release\MySQL_mit_Textfuellen.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\bin\Release\MySQL_mit_Textfuellen.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\obj\Release\MySQL_mit_Textfuellen.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\obj\Release\MySQL_mit_Textfuellen.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Kleine Uebungen\MySQL_mit_Textfuellen\bin\Release\mysql.data.dll
