@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\bin\Debug\GraphikZeichnen.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\bin\Debug\GraphikZeichnen.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\bin\Debug\GraphikZeichnen.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\GraphikZeichnen\obj\Debug\GraphikZeichnen.pdb

@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\bin\Debug\PixelGet_QuadratFuellen.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\bin\Debug\PixelGet_QuadratFuellen.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\bin\Debug\PixelGet_QuadratFuellen.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PixelGet_QuadratFuellen\obj\Debug\PixelGet_QuadratFuellen.pdb

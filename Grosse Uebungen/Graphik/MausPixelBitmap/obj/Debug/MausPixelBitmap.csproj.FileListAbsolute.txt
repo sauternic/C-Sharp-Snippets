@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\bin\Debug\MausPixelBitmap.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\bin\Debug\MausPixelBitmap.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\bin\Debug\MausPixelBitmap.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\MausPixelBitmap\obj\Debug\MausPixelBitmap.csprojResolveAssemblyReference.cache

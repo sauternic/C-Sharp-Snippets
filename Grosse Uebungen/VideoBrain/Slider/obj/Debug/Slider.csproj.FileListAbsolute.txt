@@ -1,0 +1,12 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\bin\Debug\Slider.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\bin\Debug\Slider.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\MainWindow.baml
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\MainWindow.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\App.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider_MarkupCompile.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.g.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\Slider\obj\Debug\Slider.pdb

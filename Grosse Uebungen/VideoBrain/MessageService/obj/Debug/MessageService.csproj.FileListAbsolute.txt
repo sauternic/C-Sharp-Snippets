@@ -1,0 +1,28 @@
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\bin\Debug\MessageService.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\bin\Debug\MessageService.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MainWindow.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\App.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService_MarkupCompile.cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService_MarkupCompile.lref
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MainWindow.baml
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService.g.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService.Properties.Resources.resources
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService.exe
+C:\Users\Nicolas\Documents\Visual Studio 2012\Code Snippets\Visual C#\My Code Snippets\VideoBrain\MessageService\obj\Debug\MessageService.pdb
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\bin\Debug\MessageService.exe
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\bin\Debug\MessageService.pdb
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.csprojResolveAssemblyReference.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MainWindow.g.cs
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\App.g.cs
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService_MarkupCompile.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService_MarkupCompile.lref
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MainWindow.baml
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.g.resources
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.Properties.Resources.resources
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.csproj.GenerateResource.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.exe
+C:\Users\Sauter\Documents\Visual Studio 2017\Code Snippets\Visual C#\Grosse Uebungen\VideoBrain\MessageService\obj\Debug\MessageService.pdb

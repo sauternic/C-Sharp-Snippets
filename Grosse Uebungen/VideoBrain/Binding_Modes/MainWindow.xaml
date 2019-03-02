@@ -1,0 +1,13 @@
+﻿<Window x:Class="Binding_Modes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        x:Name="window">
+    
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Width="200" Height="50" Text="{Binding ElementName=window, Path=Message}"></TextBlock>
+        <TextBox Width="200" Height="50" Text="{Binding ElementName=window, Path=Message, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Button Width="200" Height="50" Click="Button_Click_1">Klick mich! :)</Button>
+        <Button Content="Message Wert zeigen" Width="200" Click="Button_Click_2"/>
+    </StackPanel>
+</Window>

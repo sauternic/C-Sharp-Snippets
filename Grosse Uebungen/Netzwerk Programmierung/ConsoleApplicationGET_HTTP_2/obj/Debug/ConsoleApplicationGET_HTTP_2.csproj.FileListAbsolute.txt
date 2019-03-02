@@ -1,0 +1,5 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationGET_HTTP_2\bin\Debug\ConsoleApplicationGET_HTTP_2.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationGET_HTTP_2\bin\Debug\ConsoleApplicationGET_HTTP_2.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationGET_HTTP_2\bin\Debug\ConsoleApplicationGET_HTTP_2.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationGET_HTTP_2\obj\Debug\ConsoleApplicationGET_HTTP_2.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationGET_HTTP_2\obj\Debug\ConsoleApplicationGET_HTTP_2.pdb

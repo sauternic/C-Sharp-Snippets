@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\bin\Debug\BilderSkalierenDrawImage.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\bin\Debug\BilderSkalierenDrawImage.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\bin\Debug\BilderSkalierenDrawImage.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BilderSkalierenDrawImage\obj\Debug\BilderSkalierenDrawImage.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp_struct\obj\Debug\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp_struct\obj\Debug\Auto_C_Sharp.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp_struct\bin\Debug\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp_struct\bin\Debug\Auto_C_Sharp.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp_struct\obj\Debug\ResolveAssemblyReference.cache

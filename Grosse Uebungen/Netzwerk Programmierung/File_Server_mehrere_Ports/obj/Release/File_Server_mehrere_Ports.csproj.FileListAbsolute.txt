@@ -1,0 +1,6 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\bin\Release\File_Server_mehrere_Ports.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\bin\Release\File_Server_mehrere_Ports.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\bin\Release\File_Server_mehrere_Ports.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\obj\Release\File_Server_mehrere_Ports.csproj.CoreCompileInputs.cache
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\obj\Release\File_Server_mehrere_Ports.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\File_Server_mehrere_Ports\obj\Release\File_Server_mehrere_Ports.pdb

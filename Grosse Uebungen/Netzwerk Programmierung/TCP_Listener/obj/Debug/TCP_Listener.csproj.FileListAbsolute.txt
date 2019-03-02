@@ -1,0 +1,10 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\TCP_Listener\bin\Debug\TCP_Client.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\TCP_Listener\obj\Debug\TCP_Client.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\TCP_Listener\obj\Debug\TCP_Client.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\bin\Debug\TCP_Client.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\bin\Debug\TCP_Client.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\bin\Debug\TCP_Client.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\obj\Debug\TCP_Listener.csproj.CoreCompileInputs.cache
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\obj\Debug\TCP_Client.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\obj\Debug\TCP_Client.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\TCP_Listener\obj\Debug\TCP_Listener.csprojResolveAssemblyReference.cache

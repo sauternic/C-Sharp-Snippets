@@ -1,0 +1,12 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationDNS_IPAdress\obj\Debug\Klassen_DNS_IpAdress.csprojResolveAssemblyReference.cache

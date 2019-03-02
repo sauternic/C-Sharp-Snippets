@@ -1,0 +1,7 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\bin\Debug\Mail_Versenden_SMTP.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\bin\Debug\Mail_Versenden_SMTP.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\bin\Debug\Mail_Versenden_SMTP.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\obj\Debug\Mail_Versenden_SMTP.csprojResolveAssemblyReference.cache
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\obj\Debug\Mail_Versenden_SMTP.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\obj\Debug\Mail_Versenden_SMTP.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Mail_Versenden_SMTP\obj\Debug\Mail_Versenden_SMTP.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\bin\Debug\BitmapSaveTest.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\bin\Debug\BitmapSaveTest.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\bin\Debug\BitmapSaveTest.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\BitmapSaveTest\obj\Debug\BitmapSaveTest.pdb

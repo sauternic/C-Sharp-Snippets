@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Auto_C_Sharp\bin\Release\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Auto_C_Sharp\bin\Release\Auto_C_Sharp.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Auto_C_Sharp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Auto_C_Sharp\obj\Release\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Auto_C_Sharp\obj\Release\Auto_C_Sharp.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp\obj\Release\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp\bin\Release\Auto_C_Sharp.exe
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp\bin\Release\Auto_C_Sharp.pdb
+C:\Users\Nicolas\Documents\Visual Studio 2008\Projects\C Sharp\Grosse Uebungen\Auto_C_Sharp\obj\Release\Auto_C_Sharp.pdb

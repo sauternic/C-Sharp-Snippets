@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\bin\Debug\LinienMouse.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\bin\Debug\LinienMouse.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\bin\Debug\LinienMouse.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMousePaintEvent.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMousePaintEvent.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMousePaintEvent.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMouse.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMouse.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\LinienMousePaintEvent\obj\Debug\LinienMousePaintEvent.csprojResolveAssemblyReference.cache

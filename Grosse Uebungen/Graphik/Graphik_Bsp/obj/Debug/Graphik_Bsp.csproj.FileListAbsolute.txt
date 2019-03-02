@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\bin\Debug\Graphik_Bsp.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\bin\Debug\Graphik_Bsp.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\bin\Debug\Graphik_Bsp.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\Graphik_Bsp\obj\Debug\Graphik_Bsp.csprojResolveAssemblyReference.cache

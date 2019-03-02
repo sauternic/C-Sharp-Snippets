@@ -1,0 +1,12 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\bin\Release\TCP_Client_Zeitgeber.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\bin\Release\TCP_Client_Zeitgeber.exe.manifest
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\bin\Release\TCP_Client_Zeitgeber.application
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\bin\Release\TCP_Client_Zeitgeber.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\bin\Release\TCP_Client_Zeitgeber.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.csproj.CoreCompileInputs.cache
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.TrustInfo.xml
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.exe.manifest
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.application
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\NeustesProjekt\TCP_Client_Zeitgeber\obj\Release\TCP_Client_Zeitgeber.csprojResolveAssemblyReference.cache

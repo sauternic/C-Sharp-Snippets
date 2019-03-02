@@ -1,0 +1,6 @@
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\bin\Debug\ConsoleApplicationAnwortServer.exe.config
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\bin\Debug\ConsoleApplicationAnwortServer.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\bin\Debug\ConsoleApplicationAnwortServer.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\obj\Debug\ConsoleApplicationAnwortServer.exe
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\obj\Debug\ConsoleApplicationAnwortServer.pdb
+C:\Users\Sauter\Documents\Visual Studio 2012\Code Snippets\Visual C#\Netzwerk Programmierung\Neuere_Übungen\ConsoleApplicationAnwortServer\obj\Debug\ConsoleApplicationAnwortServer.csprojResolveAssemblyReference.cache

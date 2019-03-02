@@ -1,0 +1,281 @@
+Wichtig:
+
+IPAddress ipA = IPAddress.Parse("192.168.0.101");
+IPEndPoint ipEo = new IPEndPoint(ipA, Port);
+
+String localHostName = Dns.GetHostName();
+
+String host = "192.168.0.101";
+IPHostEntry hostInfo = Dns.GetHostEntry(host);
+
+
+ FileInfo fileInfo = new FileInfo("C:/Ausgabe/Client/Insekt.jpg");
+
+
+
+ Mit FileSystem Arbeiten:
+
+			FileInfo fileInfo = new FileInfo("C:/Ausgabe/Client/Insekt.jpg");
+
+            //Extension Aendern
+            string fullNameNew = fileInfo.FullName.Replace(fileInfo.Extension, "txt");
+            
+            //Name der Datei Aendern(durch MoveTo am gleichen Ort)
+            fileInfo.MoveTo(fullNameNew);
+
+
+**************Client*************************************************************************************************************
+using System;
+using System.Net;
+using System.Net.Sockets;
+
+namespace ConsoleApplication2
+{
+    //Client
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Erstellen des Sockets beim Client und Server genau gleich! :)
+            Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
+            //Client spezifisch
+            sock.Connect("localhost", 81);
+
+            
+            // Prüfe ob eine Verbindung besteht?
+            if (sock.Connected)
+                Console.WriteLine("Verbunden! :)");
+        }
+
+    }
+}
+**********************************************************************************************************************************
+
+*****************Server***********************************************************************************************************
+using System;
+using System.Net;
+using System.Net.Sockets;
+
+namespace ConsoleApplicationAnwortServer
+{
+    class Program
+    {
+        //Server:
+        static void Main(string[] args)
+        {
+            //Erstellen des Sockets beim Client und Server genau gleich! :)            
+            Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
+            //Server spezifisch
+            //Muss doch Port wissen auf dem geListet wird
+            sock.Bind(new IPEndPoint(IPAddress.Any, 81));
+            sock.Listen(5);
+
+
+            while (true)
+            {
+                //Hier wird Blockiert(gewartet)
+                Socket client = sock.Accept();
+
+				Console.WriteLine("Handling client at " + client.RemoteEndPoint);
+            }
+
+
+
+
+
+            
+            //client.Shutdown(SocketShutdown.Both);
+            //client.Close();
+
+        }
+    }
+}
+*************************************************************************************************************************************
+
+
+
+Client*****Komplexer***********************************************************************************************************************
+
+using System;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading;
+
+namespace ConsoleApplication2
+{
+    //Client
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Erstellen des Sockets beim Client und Server genau gleich! :)
+            Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
+            //Client spezifisch
+            sock.Connect("localhost", 81);
+
+
+            for (int i = 0; i < 10; i++)
+            {
+                sock.Send(Encoding.UTF8.GetBytes("Hallo Nicolas\n"));
+                Thread.Sleep(500);
+            }
+            sock.Close();
+
+            
+
+        }
+
+    }
+
+}
+
+Server*****Komplexer*******************************************************************************************************************************
+
+using System;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+
+namespace ConsoleApplicationAnwortServer
+{
+    class Program
+    {
+        //Server:
+        static void Main(string[] args)
+        {
+            //Erstellen des Sockets beim Client und Server genau gleich! :)            
+            Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
+            //Server spezifisch
+            //Muss doch Port wissen auf dem geListet wird
+            sock.Bind(new IPEndPoint(IPAddress.Any, 81));
+            sock.Listen(5);
+
+
+            byte[] buffer = new byte[1];
+            int bytesRcvd;
+            
+            //Endlos Schleife
+            while (true)
+            {
+                Socket client = null;
+                int totalbytesEchoed = 0;
+                try
+                {
+                    //Hier wird Blockiert(gewartet)
+                    client = sock.Accept();
+
+                    //Solange Lesen wie Daten vorhanden, bei 0 fertig
+                    while ((bytesRcvd = client.Receive(buffer)) > 0)
+                    {
+                        //Mach was mit den Bytes im buffer
+                        Console.Write(Encoding.UTF8.GetString(buffer));
+                        totalbytesEchoed += bytesRcvd;
+                    }
+                    client.Shutdown(SocketShutdown.Both);
+                    client.Close();
+                }
+                catch (Exception e)
+                {
+                   Console.WriteLine(e.Message);
+                    client.Close();
+                }
+
+                Console.WriteLine("Totale Bytes: " + totalbytesEchoed);
+
+
+
+            }
+
+        }
+
+    }
+
+}
+
+
+
+TCP_Listener++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+using System;
+using System.Text;
+using System.Net;
+using System.Net.Sockets;
+using System.IO;
+
+namespace TCP_Listener
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            byte[] buffer = new Byte[1100];
+
+            try
+            {
+                TcpListener server = new TcpListener(IPAddress.Parse("127.0.0.1"), 80);
+                server.Start();
+
+                //Listener Endlosschleife
+                while (true)
+                {
+                    //Hier wird gewartet bis Client Anklopft
+                    TcpClient client = server.AcceptTcpClient();
+                    Stream stream = client.GetStream();
+
+                    int i = 0;
+                    //Einleseschleife
+                    while ((i = stream.Read(buffer, 0, buffer.Length)) > 0)
+                    {
+                        //Hier war der Fehler das nicht richtig Eingelesen wurde 3.Arg!!!
+                        Console.Write(Encoding.UTF8.GetString(buffer,0, i));
+                    }
+
+                    //Wie am Anfang der Schleife!
+                    //Werden dort wieder neu Erzeugt
+                    client.Close();
+                    stream.Close();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.Write(e.Message);
+            }
+            Console.Read();
+
+        }
+
+    }
+
+}
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TCP_Client++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+using System.Text;
+using System.Net.Sockets;
+using System.IO;
+
+namespace TCP_Client
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            TcpClient client = new TcpClient("localhost", 80);
+            Stream stream = client.GetStream();
+            
+            byte[] daten = Encoding.UTF8.GetBytes("Alles klar?\n");
+            stream.Write(daten, 0, daten.Length);
+
+            client.Close();
+            stream.Close();
+        }
+    }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

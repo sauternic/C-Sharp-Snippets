@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationGET_HTTP", "ConsoleApplicationGET_HTTP.csproj", "{94FAD5AF-AEA5-42FF-A358-3D111FDA55A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationGET_HTTP_2", "..\ConsoleApplicationGET_HTTP_2\ConsoleApplicationGET_HTTP_2.csproj", "{E4B56A46-E234-49D3-8EA6-8C08F981810B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationGET_HTTP_3", "..\ConsoleApplicationGET_HTTP_3\ConsoleApplicationGET_HTTP_3.csproj", "{01D68C9B-FD46-4496-AB95-B915E2D61C56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94FAD5AF-AEA5-42FF-A358-3D111FDA55A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FAD5AF-AEA5-42FF-A358-3D111FDA55A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FAD5AF-AEA5-42FF-A358-3D111FDA55A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FAD5AF-AEA5-42FF-A358-3D111FDA55A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B56A46-E234-49D3-8EA6-8C08F981810B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B56A46-E234-49D3-8EA6-8C08F981810B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B56A46-E234-49D3-8EA6-8C08F981810B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B56A46-E234-49D3-8EA6-8C08F981810B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D68C9B-FD46-4496-AB95-B915E2D61C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D68C9B-FD46-4496-AB95-B915E2D61C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D68C9B-FD46-4496-AB95-B915E2D61C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D68C9B-FD46-4496-AB95-B915E2D61C56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

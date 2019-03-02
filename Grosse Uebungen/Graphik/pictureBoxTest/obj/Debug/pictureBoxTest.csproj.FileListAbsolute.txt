@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\bin\Debug\pictureBoxTest.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\bin\Debug\pictureBoxTest.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\bin\Debug\pictureBoxTest.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\pictureBoxTest\obj\Debug\pictureBoxTest.pdb

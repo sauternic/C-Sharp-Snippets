@@ -1,0 +1,9 @@
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\bin\Debug\PicturBoxUeben.exe.config
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.Form1.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.Properties.Resources.resources
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.csproj.GenerateResource.Cache
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\bin\Debug\PicturBoxUeben.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\bin\Debug\PicturBoxUeben.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.exe
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.pdb
+G:\Visual Studio 2012\Code Snippets\Visual C#\Graphik\PicturBoxUeben\obj\Debug\PicturBoxUeben.csprojResolveAssemblyReference.cache
