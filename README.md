@@ -6,4 +6,4 @@
 
 ### Wpf:
 [- AsyncAwait_Progress_CancellationToken](https://github.com/sauternic/WpfApp-AsyncAwait_Progress_CancellationToken)  
-[- BeginInvoke](https://github.com/sauternic/WpfApp-BeginInvoke)  
+[- Task.Run()](https://github.com/sauternic/WpfApp-Task.Run)  
