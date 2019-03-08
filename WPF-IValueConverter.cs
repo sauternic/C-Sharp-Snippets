@@ -26,12 +26,13 @@ In MainWindow.xaml
 In MainWindow.xaml.cs
 ---------------------
     
+    //Einfach IValueConverter bei einer eigenen Klasse Einbinden und die zwei Interface Methoden Reinschreiben. B)
     public class MeinConverter : IValueConverter
-    {                            ---------------
+    {            -------------
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             //Hier wird nur der boolean umgekehrt und zurückgeschickt! ;)
-			return !(bool)value;
+            return !(bool)value;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
