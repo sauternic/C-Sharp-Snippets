@@ -23,11 +23,9 @@ namespace WpfApp2
         {
             await Zeitmessung(async (dk) =>
             {
-                //Alles hier wir quasi in die 'Zeitmessung()' Methode beim body Aufruf reingereicht! :/
+                //Alles hier wird quasi in die 'Zeitmessung()' Methode beim body Aufruf reingereicht! :/
                 cts = new CancellationTokenSource();
-
-                
-                //3. Token Mitgeben
+				
                 var erg1 = dk.LadeSpekaersAsync(cts.Token, new Progress<int>());
                 var erg2 = dk.LadeSessionsAsync();
 
