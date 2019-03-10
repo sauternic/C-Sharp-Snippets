@@ -40,7 +40,7 @@ namespace WpfApp2
     {
 
         //*Siehe Unten Erklärungen
-		public static event EventHandler<PropertyChangedEventArgs> StaticPropertyChanged;
+        public static event EventHandler<PropertyChangedEventArgs> StaticPropertyChanged;
 
         static CMeine()
         {
