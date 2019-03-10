@@ -39,7 +39,8 @@ namespace WpfApp2
     public static class CMeine
     {
 
-        public static event EventHandler<PropertyChangedEventArgs> StaticPropertyChanged;
+        //*Siehe Unten Erklärungen
+		public static event EventHandler<PropertyChangedEventArgs> StaticPropertyChanged;
 
         static CMeine()
         {
@@ -80,4 +81,21 @@ namespace WpfApp2
 
     </Grid>
  </Window>
+ 
+ ************************************************************************************************************************
 
+ *Erklärung zu 'EventHandler<PropertyChangedEventArgs>'
+ - Sieht kompliziert aus ist aber nur ein vordefinierter Delegaten Typ!!!
+ 
+   Man könnte es auch so schreiben:
+   'Action<Object,PropertyChangedEventArgs>' (statt: 'EventHandler<PropertyChangedEventArgs>')
+
+   
+   Oder selber ein Delegaten Definieren der eine Methode kapselt die 'void' zurückgibt und
+   zwei Parameter definiert nämlich 'Object' und 'PropertyChangedEventArgs'
+   
+   //Selber Definierter Delegaten Typ:
+   public delegate void MeinDelegate(Object o, PropertyChangedEventArgs arg);
+   
+   Und dann:
+   'MeinDelegate' (statt: 'EventHandler<PropertyChangedEventArgs>')
