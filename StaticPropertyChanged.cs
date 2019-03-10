@@ -5,12 +5,12 @@ using System.Windows;
 using System;
 
 // Static Variante von 'INotifyPropertyChanged':
-// Event 'StaticPropertyChanged' ist um Änderungen im cs-Code im WPF-UI sichbar zu machen.
+// Event 'StaticPropertyChanged' ist um Ã„nderungen im cs-Code im WPF-UI sichbar zu machen.
 
 namespace WpfApp2
 {
     /// <summary>
-    /// Interaktionslogik für MainWindow.xaml
+    /// Interaktionslogik fÃ¼r MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
@@ -19,22 +19,22 @@ namespace WpfApp2
         {
             InitializeComponent();
 
-            //Keine Zuweisung zum DataContext möglich
+            //Keine Zuweisung zum DataContext mÃ¶glich
 
-            //Einbindung der statischen Klasse 'CMeine' mit Member 'Name' über xaml:
+            //Einbindung der statischen Klasse 'CMeine' mit Member 'Name' Ã¼ber xaml:
             //Text="{Binding Path=(local:CMeine.Name)}"
 
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            CMeine.Name = "geändert!!";
+            CMeine.Name = "geÃ¤ndert!!";
         }
 
     }
 
 
-    // Interface 'INotifyPropertyChanged' ist um Änderungen in WPF sichbar zu machen.
+    // Event fild 'StaticPropertyChanged' ist um Ã„nderungen im cs-Code im WPF-UI sichbar zu machen.
     // Alternativ 'Name' als Dependency-Property Registrieren :) 
     public static class CMeine
     {
@@ -76,7 +76,7 @@ namespace WpfApp2
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="Aquamarine">
         <TextBlock Name="textblock1" Text="{Binding Path=(local:CMeine.Name)}"  Background="White" HorizontalAlignment="Left" Height="22" Margin="166,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="387"/>
-        <Button Content="Property Ändern" HorizontalAlignment="Left" Height="46" Margin="261,255,0,0" VerticalAlignment="Top" Width="208" Click="Button_Click"/>
+        <Button Content="Property Ã„ndern" HorizontalAlignment="Left" Height="46" Margin="261,255,0,0" VerticalAlignment="Top" Width="208" Click="Button_Click"/>
 
     </Grid>
  </Window>
