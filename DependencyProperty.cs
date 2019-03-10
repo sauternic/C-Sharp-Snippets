@@ -43,7 +43,7 @@ namespace WpfApp2
             this.Name = "Sauter";
         }
 
-        //Hier ist das Herz mit der Register() Methode! (Statt eines private field _Name)
+        //Hier ist das Herz mit der Register() Methode! ('NameProperty' statt eines private field '_Name')
         public static readonly DependencyProperty NameProperty =
             DependencyProperty.Register("Name", typeof(string), typeof(CMeine));
 
